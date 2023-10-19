@@ -86,15 +86,12 @@
     $("#validator-newsletter").removeClass().addClass(msgClasses).text(msg);
   }
   $(".newsletter-form").ajaxChimp({
-    url: "https://envytheme.us20.list-manage.com/subscribe/post?u=60e1ffe2e8a68ce1204cd39a5&amp;id=42d6d188d9",
+    url: "#",
     callback: callbackFunction,
   });
   $(window).on("load", function () {
     $(".loader-content").fadeOut(1000);
   });
-  $("body").append(
-    "<a href='https://themeforest.net/checkout/from_item/26296405?license=regular&support=bundle_6month&_ga=2.252088201.1464546313.1649253347-1356931366.1645330919&_gac=1.115872116.1649351773.Cj0KCQjwl7qSBhD-ARIsACvV1X34Yvc4XKSYFq60iQ6auDlKjNhJLJW5j_1joCsZJCKQ-4m75Uw8RNcaArtlEALw_wcB' target='_blank' class='buy-now-btn'><img src='assets/img/envato.png' alt='envato'/>Buy Now</a>"
-  );
   $("body").append(
     "<div class='switch-box'><label id='switch' class='switch'><input type='checkbox' onchange='toggleTheme()' id='slider'><span class='slider round'></span></label></div>"
   );
