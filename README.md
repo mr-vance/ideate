@@ -1,6 +1,6 @@
 # Ideate
 
-![ideate-banner](assets/img/readme.png)
+![ideate-banner](assets/img/readme-2.png)
 
 ## Table of Contents
 - [Ideate](#ideate)
