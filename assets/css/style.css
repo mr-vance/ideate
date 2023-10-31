@@ -1010,6 +1010,24 @@ h3 {
   background: #88a32a;
 }
 
+.features-section .features-card.feature-seven i {
+  color: #d4125d;
+  background: #eff2e2;
+}
+
+.features-section .features-card.feature-seven:hover {
+  background: #d4125d;
+}
+
+.features-section .features-card.feature-eight i {
+  color: #5e2aa3;
+  background: #eff2e2;
+}
+
+.features-section .features-card.feature-eight:hover {
+  background: #5e2aa3;
+}
+
 /* Feature CSS End */
 /* Service CSS Start */
 .service-section {
