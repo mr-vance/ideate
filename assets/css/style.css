@@ -26,12 +26,12 @@ This files table contents are outlined below>>>>>
 ** - Contact Section CSS
 ** - Footer Section CSS
 */
-@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Poppins:400,500,600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
 /* Color Variable */
 /* Font Variable */
 body {
   color: #717477;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   line-height: 1.8;
   font-size: 16px;
 }
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h3 {
   font-size: 22px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #0f2137;
 }
 
@@ -210,7 +210,7 @@ h3 {
   display: inline-block;
   color: #565659;
   font-size: 15px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 500;
   margin-right: 20px;
   line-height: 1;
@@ -672,7 +672,7 @@ h3 {
 .main-banner .banner-text h1 {
   font-size: 60px;
   font-weight: 700;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #080808;
   margin-bottom: 30px;
 }
@@ -2480,7 +2480,7 @@ h3 {
 }
 
 .blog-details-area .blog-description p {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 10px;
 }
 
@@ -2544,7 +2544,7 @@ h3 {
   border: 1px solid #4472c4;
   border-radius: 5px;
   padding: 8px 20px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   display: inline-block;
   background: #FFFFFF;
 }
@@ -2596,30 +2596,30 @@ h3 {
 .blog-details-area .blog-description .blog-comment ::-webkit-input-placeholder {
   font-size: 14px;
   color: #a07373;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .blog-details-area .blog-description .blog-comment :-ms-input-placeholder {
   font-size: 14px;
   color: #a07373;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .blog-details-area .blog-description .blog-comment ::-ms-input-placeholder {
   font-size: 14px;
   color: #a07373;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .blog-details-area .blog-description .blog-comment ::placeholder {
   font-size: 14px;
   color: #a07373;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .blog-details-area .blog-description .blog-comment .default-btn {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 600;
   background: #4472c4;
   color: #FFFFFF;
@@ -2659,25 +2659,25 @@ h3 {
 
 .blog-details-area .blog-search form ::-webkit-input-placeholder {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #333333;
 }
 
 .blog-details-area .blog-search form :-ms-input-placeholder {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #333333;
 }
 
 .blog-details-area .blog-search form ::-ms-input-placeholder {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #333333;
 }
 
 .blog-details-area .blog-search form ::placeholder {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #333333;
 }
 
@@ -2757,7 +2757,7 @@ h3 {
   display: inline-block;
   color: #ff7209;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin-right: 10px;
 }
 
@@ -2854,7 +2854,7 @@ h3 {
   padding: 8px 16px;
   margin-bottom: 15px;
   display: inline-block;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   border-radius: 10px;
   border: 1px dashed #333333;
   width: 100px;
@@ -3392,25 +3392,25 @@ h3 {
 
 .service-style-four .blog-search form ::-webkit-input-placeholder {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #333333;
 }
 
 .service-style-four .blog-search form :-ms-input-placeholder {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #333333;
 }
 
 .service-style-four .blog-search form ::-ms-input-placeholder {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #333333;
 }
 
 .service-style-four .blog-search form ::placeholder {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #333333;
 }
 
@@ -3679,7 +3679,7 @@ h3 {
 
 .privacy-section .privacy-text h3 {
   font-size: 20px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #0f2137;
   text-transform: capitalize;
   margin-bottom: 10px;
