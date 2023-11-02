@@ -5,11 +5,21 @@
 ## Table of Contents
 - [Ideate](#ideate)
   - [Table of Contents](#table-of-contents)
+  - [Repo Details](#repo-details)
   - [About](#about)
   - [Purpose and Values](#purpose-and-values)
   - [How to Clone and Run the Site](#how-to-clone-and-run-the-site)
 
+## Repo Details
+![GitHub repo size](https://img.shields.io/github/repo-size/mr-vance/ideate)
+![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/mr-vance/ideate)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/mr-vance/ideate)
+![GitHub contributors](https://img.shields.io/github/contributors/mr-vance/ideate)
+
+
+
 ## About
+
 
 We are a dynamic team of highly motivated and intellectually agile professionals, fueled by an unwavering commitment to delivering transformative solutions that drive client success and contribute to positive societal change. We recognize that every client we serve wields a profound influence over their workforce, their industry, and the broader social fabric. We are genuinely excited about the opportunity to collaborate with our clients, harnessing our expertise to amplify their impact across all stakeholder spheres, catalyzing positive societal outcomes, and fostering a ripple effect of lasting change.
 
